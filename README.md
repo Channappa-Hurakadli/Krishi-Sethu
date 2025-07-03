@@ -1,37 +1,48 @@
-Krishi-Sethu
+<h1><b>Krishi-Sethu</b></h1>
+<br/>
 
-1.Description:
-Krishi Sethu is a data-driven system designed to assist farmers in making informed decisions about crop cultivation. It provides real-time market dynamics, crop yield information, and cultivation recommendations.
+<h2>1.Description:</h2><br/>
+Krishi Sethu is a data-driven system designed to assist farmers in making informed decisions about crop cultivation. It provides real-time market dynamics, crop yield information, and cultivation recommendations.<br/>
 
-2.Features
--Market Dynamics: Real-time updates on market prices and trends.
--Crop Yield Information: Historical and real-time data on crop yields.
--Cultivation Recommendations: Tailored recommendations based on crop type, soil conditions, and market demand.
+<h2>2.Features:</h2><br/>
+-Market Dynamics: Real-time updates on market prices and trends.<br/>
+-Crop Yield Information: Historical and real-time data on crop yields.<br/>
+-Cultivation Recommendations: Tailored recommendations based on crop type, soil conditions, and market demand.<br/>
 
-3.Technologies Used
--Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS.
--Backend: Node.js, Express.js.
--Database: MongoDB.
--Integration: Python for machine learning models.
+<h2>3.Technologies Used</h2> <br/>
+-Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS.<br/>
+-Backend: Node.js, Express.js.<br/>
+-Database: MongoDB.<br/>
+-Integration: Python for machine learning models.<br/>
 
-4.Installation
--Clone the repository: git clone https://github.com/yourusername/krishi-sethu.git
--Navigate to the project directory: cd krishi-sethu
--Install dependencies: npm install
+<h2>4.Installation</h2>
+```bash
+# Clone the Krishi‑Sethu repository to your local machine
+git clone https://github.com/yourusername/krishi-sethu
 
-5.Usage
--Start the backend server: npm run server
--Start the frontend development server: npm start
--Access the application in your browser at http://localhost:3000
+# Move into the project folder
+cd krishi-sethu
 
-6.Team
+# Install all project dependencies listed in package.json
+npm install
+```
+<h2>5.Usage</h2>
+```bash
+# Start the backend server
+npm run server
+
+# Start the frontend development server
+npm start
+
+# Open the app in your browser
+http://localhost:3000
+```
+
+<h2>6.Team</h2>
 -Darshan M P – Project Lead & Full-Stack Developer
 -Channappa – Backend Developer
 -Ganesh Patil  – Frontend Developer
 -Abhishek – Machine Learning Engineer
 
-## 📥 Clone or Download
 
-```bash
-$ git clone https://github.com/yourusername/krishi-sethu
-$ npm install
+
