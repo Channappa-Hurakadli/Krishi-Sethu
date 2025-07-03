@@ -15,7 +15,8 @@ Krishi Sethu is a data-driven system designed to assist farmers in making inform
 -Database: MongoDB.<br/>
 -Integration: Python for machine learning models.<br/>
 
-<h2>4.Installation</h2>
+<h2>4. 🧰 Installation</h2>
+
 ```bash
 # Clone the Krishi‑Sethu repository to your local machine
 git clone https://github.com/yourusername/krishi-sethu
@@ -25,6 +26,7 @@ cd krishi-sethu
 
 # Install all project dependencies listed in package.json
 npm install
+
 
 <h2>5.Usage</h2>
 ```bash
