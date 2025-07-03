@@ -25,7 +25,7 @@ cd krishi-sethu
 
 # Install all project dependencies listed in package.json
 npm install
-```
+
 <h2>5.Usage</h2>
 ```bash
 # Start the backend server
@@ -38,11 +38,11 @@ npm start
 http://localhost:3000
 ```
 
-<h2>6.Team</h2>
--Darshan M P – Project Lead & Full-Stack Developer
--Channappa – Backend Developer
--Ganesh Patil  – Frontend Developer
--Abhishek – Machine Learning Engineer
+<h2>6.Team</h2><br/>
+-Darshan M P – Project Lead & Full-Stack Developer<br/>
+-Channappa – Backend Developer<br/>
+-Ganesh Patil  – Frontend Developer<br/>
+-Abhishek – Machine Learning Engineer<br/>
 
 
 
