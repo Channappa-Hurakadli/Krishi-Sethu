@@ -29,3 +29,9 @@ Krishi Sethu is a data-driven system designed to assist farmers in making inform
 -Channappa – Backend Developer
 -Ganesh Patil  – Frontend Developer
 -Abhishek – Machine Learning Engineer
+
+## 📥 Clone or Download
+
+```bash
+$ git clone https://github.com/yourusername/krishi-sethu
+$ npm install
