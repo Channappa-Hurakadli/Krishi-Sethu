@@ -36,7 +36,6 @@ npm start
 
 # Open the app in your browser
 http://localhost:3000
-```
 
 <h2>6.Team</h2><br/>
 -Darshan M P – Project Lead & Full-Stack Developer<br/>
